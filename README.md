@@ -1,5 +1,7 @@
 # spotify Data-Analysis-Dashboard
 Project Overview
+
+
 The dashboard leverages dynamic data visualization to provide actionable insights into music trends and artist performance, ideal for music analytics, business intelligence, and data science projects
 he dashboard aggregates information on 499 unique artists and tracks key statistics like the longest song ("All Of Me" – 6 days 5 hours).
 
