@@ -13,3 +13,6 @@ Users can identify popular genres, songs, and artists based on popularity scores
 
 The dashboard is suitable for exploring trends in the music industry, performing genre analysis, and conducting music data comparisons for research or business insights.
 
+#DATASET USED
+
+
